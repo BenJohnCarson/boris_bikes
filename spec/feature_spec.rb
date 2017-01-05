@@ -8,4 +8,4 @@ bike.report_broken
 #try docking a bike
 docking_station.dock(bike)
 #try releasing the broken bike
-docking_station.release_bike
+#docking_station.release_bike
